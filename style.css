@@ -1,0 +1,21 @@
+body{
+        height: auto;
+        width: 70vw;
+        display: flex;
+        margin: 0 15%;
+        background-color: whitesmoke;
+    }
+
+li{
+    font-size: 16pt;
+}
+
+p{
+    font-size: 16pt;
+}
+
+.content{
+    width: 100%;
+    padding: 2%;
+}
+

@@ -59,8 +59,7 @@
         <hr>
         <h2>作品集</h2>
         <ul>
-            <li>記帳</li>
-            <a href="#">aa</a>
+            <li>記帳  <a href="../components/Accounting/Home.vue">記帳</a></li>
         </ul>
     </div>
 </template>

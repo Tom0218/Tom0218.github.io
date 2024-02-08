@@ -1,3 +1,3 @@
 <script></script>
-<template></template>
+<template>asdada</template>
 <style lang="scss" scoped></style>

@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>個人網站</title>
-    <link rel="stylesheet" href="./style.css">
-</head>
-<body>
-    <div class="content">
+<script setup>
+</script>
+
+<template>
+  <div class="content">
         <!-- 簡介 -->
         <h1>謝育騰 (Hsieh Yu,Teng) </h1>
         <hr/>
@@ -67,5 +62,4 @@
             <li>記帳</li>
         </ul>
     </div>
-</body>
-</html>
+</template>

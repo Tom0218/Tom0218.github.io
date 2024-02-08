@@ -1,0 +1,6 @@
+//Bootstrap功能
+@import "./../../node_modules/bootstrap/scss/functions";
+//自訂義套件
+@import "./stylesheet/helper/variables";
+//Bootstrap樣式
+@import"../../node_modules/bootstrap/scss/bootstrap.scss";

@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="content">
+<div class="content">
         <!-- 簡介 -->
         <h1>謝育騰 (Hsieh Yu,Teng) </h1>
         <hr/>

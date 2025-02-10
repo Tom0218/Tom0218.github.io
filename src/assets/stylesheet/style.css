@@ -37,3 +37,14 @@ body{
     transition: 0.5s;
     cursor: pointer; 
 }
+
+a{
+    &:hover{
+        font-size: 20pt;
+        transition: 0.6s;
+    }
+}
+
+.Portfolio{
+    height: 50vh;
+}
